@@ -1,2 +1,2 @@
 # Hellolibrary
-一个library的简单演示
+成为开源贡献者的第一步
