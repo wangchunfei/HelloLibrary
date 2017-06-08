@@ -8,6 +8,6 @@ package com.wcf.library;
 
 public class CustomUtil {
     public static String getMyHero(){
-        return "wcfwowowo";
+        return "wcf";
     }
 }
